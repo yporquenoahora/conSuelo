@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_latina_0",
+    "titulo": "Piso 103m² · 1 hab · Latina",
+    "precio": 230000,
+    "precio_m2": 2233,
+    "m2": 103,
+    "habitaciones": 1,
+    "distrito": "Latina",
+    "lat": 40.41042804145782,
+    "lng": -3.7372238083049907,
+    "url": "https://www.idealista.com/venta-viviendas/latina/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.097Z"
+  },
+  {
+    "id": "demo_latina_1",
+    "titulo": "Piso 55m² · 2 hab · Latina",
+    "precio": 280000,
+    "precio_m2": 5091,
+    "m2": 55,
+    "habitaciones": 2,
+    "distrito": "Latina",
+    "lat": 40.40917933978019,
+    "lng": -3.7374579228075806,
+    "url": "https://www.idealista.com/venta-viviendas/latina/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.097Z"
+  },
+  {
+    "id": "demo_latina_2",
+    "titulo": "Piso 88m² · 2 hab · Latina",
+    "precio": 195000,
+    "precio_m2": 2216,
+    "m2": 88,
+    "habitaciones": 2,
+    "distrito": "Latina",
+    "lat": 40.408573003081194,
+    "lng": -3.745510384927705,
+    "url": "https://www.idealista.com/venta-viviendas/latina/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.097Z"
+  }
+]

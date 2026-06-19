@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_san_blas_0",
+    "titulo": "Piso 87m² · 1 hab · San Blas-Canillejas",
+    "precio": 190000,
+    "precio_m2": 2184,
+    "m2": 87,
+    "habitaciones": 1,
+    "distrito": "San Blas-Canillejas",
+    "lat": 40.42465858421476,
+    "lng": -3.620494502850731,
+    "url": "https://www.idealista.com/venta-viviendas/san_blas/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.135Z"
+  },
+  {
+    "id": "demo_san_blas_1",
+    "titulo": "Piso 106m² · 3 hab · San Blas-Canillejas",
+    "precio": 225000,
+    "precio_m2": 2123,
+    "m2": 106,
+    "habitaciones": 3,
+    "distrito": "San Blas-Canillejas",
+    "lat": 40.43325824831291,
+    "lng": -3.628273204753498,
+    "url": "https://www.idealista.com/venta-viviendas/san_blas/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.135Z"
+  },
+  {
+    "id": "demo_san_blas_2",
+    "titulo": "Piso 88m² · 2 hab · San Blas-Canillejas",
+    "precio": 215000,
+    "precio_m2": 2443,
+    "m2": 88,
+    "habitaciones": 2,
+    "distrito": "San Blas-Canillejas",
+    "lat": 40.42370997222789,
+    "lng": -3.629657571717053,
+    "url": "https://www.idealista.com/venta-viviendas/san_blas/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.135Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_chamartin_0",
+    "titulo": "Piso 61m² · 3 hab · Chamartín",
+    "precio": 520000,
+    "precio_m2": 8525,
+    "m2": 61,
+    "habitaciones": 3,
+    "distrito": "Chamartín",
+    "lat": 40.459462378220415,
+    "lng": -3.6707379660346477,
+    "url": "https://www.idealista.com/venta-viviendas/chamartin/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.062Z"
+  },
+  {
+    "id": "demo_chamartin_1",
+    "titulo": "Piso 63m² · 3 hab · Chamartín",
+    "precio": 680000,
+    "precio_m2": 10794,
+    "m2": 63,
+    "habitaciones": 3,
+    "distrito": "Chamartín",
+    "lat": 40.45011745698045,
+    "lng": -3.6807452680028447,
+    "url": "https://www.idealista.com/venta-viviendas/chamartin/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.062Z"
+  },
+  {
+    "id": "demo_chamartin_2",
+    "titulo": "Piso 91m² · 3 hab · Chamartín",
+    "precio": 750000,
+    "precio_m2": 8242,
+    "m2": 91,
+    "habitaciones": 3,
+    "distrito": "Chamartín",
+    "lat": 40.45071253833557,
+    "lng": -3.6795777024840843,
+    "url": "https://www.idealista.com/venta-viviendas/chamartin/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.062Z"
+  }
+]

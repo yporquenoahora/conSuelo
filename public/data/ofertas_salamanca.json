@@ -1,0 +1,58 @@
+[
+  {
+    "id": "demo_salamanca_0",
+    "titulo": "Piso 97m² · 2 hab · Salamanca",
+    "precio": 780000,
+    "precio_m2": 8041,
+    "m2": 97,
+    "habitaciones": 2,
+    "distrito": "Salamanca",
+    "lat": 40.43435151364577,
+    "lng": -3.6849239524565953,
+    "url": "https://www.idealista.com/venta-viviendas/salamanca/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.052Z"
+  },
+  {
+    "id": "demo_salamanca_1",
+    "titulo": "Piso 85m² · 3 hab · Salamanca",
+    "precio": 950000,
+    "precio_m2": 11176,
+    "m2": 85,
+    "habitaciones": 3,
+    "distrito": "Salamanca",
+    "lat": 40.429125440850505,
+    "lng": -3.6824734743262106,
+    "url": "https://www.idealista.com/venta-viviendas/salamanca/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.052Z"
+  },
+  {
+    "id": "demo_salamanca_2",
+    "titulo": "Piso 64m² · 2 hab · Salamanca",
+    "precio": 1200000,
+    "precio_m2": 18750,
+    "m2": 64,
+    "habitaciones": 2,
+    "distrito": "Salamanca",
+    "lat": 40.42656468032967,
+    "lng": -3.675883731772884,
+    "url": "https://www.idealista.com/venta-viviendas/salamanca/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.052Z"
+  },
+  {
+    "id": "demo_salamanca_3",
+    "titulo": "Piso 75m² · 1 hab · Salamanca",
+    "precio": 680000,
+    "precio_m2": 9067,
+    "m2": 75,
+    "habitaciones": 1,
+    "distrito": "Salamanca",
+    "lat": 40.43227419523403,
+    "lng": -3.6823589148907714,
+    "url": "https://www.idealista.com/venta-viviendas/salamanca/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.052Z"
+  }
+]

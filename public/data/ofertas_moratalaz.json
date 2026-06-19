@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_moratalaz_0",
+    "titulo": "Piso 104m² · 3 hab · Moratalaz",
+    "precio": 200000,
+    "precio_m2": 1923,
+    "m2": 104,
+    "habitaciones": 3,
+    "distrito": "Moratalaz",
+    "lat": 40.408046543461175,
+    "lng": -3.654996299302362,
+    "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.142Z"
+  },
+  {
+    "id": "demo_moratalaz_1",
+    "titulo": "Piso 101m² · 3 hab · Moratalaz",
+    "precio": 240000,
+    "precio_m2": 2376,
+    "m2": 101,
+    "habitaciones": 3,
+    "distrito": "Moratalaz",
+    "lat": 40.40090099997275,
+    "lng": -3.6514816020361516,
+    "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.142Z"
+  },
+  {
+    "id": "demo_moratalaz_2",
+    "titulo": "Piso 77m² · 3 hab · Moratalaz",
+    "precio": 220000,
+    "precio_m2": 2857,
+    "m2": 77,
+    "habitaciones": 3,
+    "distrito": "Moratalaz",
+    "lat": 40.40764978996546,
+    "lng": -3.6522200096845356,
+    "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.142Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_hortaleza_0",
+    "titulo": "Piso 72m² · 3 hab · Hortaleza",
+    "precio": 280000,
+    "precio_m2": 3889,
+    "m2": 72,
+    "habitaciones": 3,
+    "distrito": "Hortaleza",
+    "lat": 40.47271896899712,
+    "lng": -3.652527052526972,
+    "url": "https://www.idealista.com/venta-viviendas/hortaleza/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.151Z"
+  },
+  {
+    "id": "demo_hortaleza_1",
+    "titulo": "Piso 75m² · 4 hab · Hortaleza",
+    "precio": 320000,
+    "precio_m2": 4267,
+    "m2": 75,
+    "habitaciones": 4,
+    "distrito": "Hortaleza",
+    "lat": 40.471398792268744,
+    "lng": -3.6404484566499478,
+    "url": "https://www.idealista.com/venta-viviendas/hortaleza/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.151Z"
+  },
+  {
+    "id": "demo_hortaleza_2",
+    "titulo": "Piso 80m² · 4 hab · Hortaleza",
+    "precio": 350000,
+    "precio_m2": 4375,
+    "m2": 80,
+    "habitaciones": 4,
+    "distrito": "Hortaleza",
+    "lat": 40.47220318138556,
+    "lng": -3.643018829726026,
+    "url": "https://www.idealista.com/venta-viviendas/hortaleza/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.151Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "madrid-inversor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scrape:demo": "node scripts/scraper.js --modo demo",
+    "scrape:apify": "node scripts/scraper.js --modo apify",
+    "scrape:distrito": "node scripts/scraper.js --modo demo --distrito"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.1.2",
+    "svelte": "^5.55.5",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "axios": "^1.18.0",
+    "cheerio": "^1.2.0",
+    "leaflet": "^1.9.4",
+    "node-cron": "^4.4.1"
+  }
+}

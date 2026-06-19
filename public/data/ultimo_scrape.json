@@ -1,0 +1,90 @@
+{
+  "fecha": "2026-06-19T08:31:13.006Z",
+  "modo": "demo",
+  "distritos": {
+    "centro": {
+      "ok": true,
+      "count": 5
+    },
+    "salamanca": {
+      "ok": true,
+      "count": 4
+    },
+    "chamberi": {
+      "ok": true,
+      "count": 4
+    },
+    "chamartin": {
+      "ok": true,
+      "count": 3
+    },
+    "retiro": {
+      "ok": true,
+      "count": 3
+    },
+    "arganzuela": {
+      "ok": true,
+      "count": 3
+    },
+    "tetuan": {
+      "ok": true,
+      "count": 3
+    },
+    "moncloa": {
+      "ok": true,
+      "count": 3
+    },
+    "usera": {
+      "ok": true,
+      "count": 4
+    },
+    "latina": {
+      "ok": true,
+      "count": 3
+    },
+    "carabanchel": {
+      "ok": true,
+      "count": 4
+    },
+    "vallecas_puente": {
+      "ok": true,
+      "count": 4
+    },
+    "villaverde": {
+      "ok": true,
+      "count": 3
+    },
+    "vallecas_villa": {
+      "ok": true,
+      "count": 3
+    },
+    "vicalvaro": {
+      "ok": true,
+      "count": 3
+    },
+    "san_blas": {
+      "ok": true,
+      "count": 3
+    },
+    "moratalaz": {
+      "ok": true,
+      "count": 3
+    },
+    "ciudad_lineal": {
+      "ok": true,
+      "count": 3
+    },
+    "hortaleza": {
+      "ok": true,
+      "count": 3
+    },
+    "fuencarral": {
+      "ok": true,
+      "count": 3
+    },
+    "barajas": {
+      "ok": true,
+      "count": 3
+    }
+  }
+}

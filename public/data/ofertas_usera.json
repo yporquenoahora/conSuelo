@@ -1,0 +1,58 @@
+[
+  {
+    "id": "demo_usera_0",
+    "titulo": "Piso 97m² · 1 hab · Usera",
+    "precio": 190000,
+    "precio_m2": 1959,
+    "m2": 97,
+    "habitaciones": 1,
+    "distrito": "Usera",
+    "lat": 40.39601006285543,
+    "lng": -3.709181575297767,
+    "url": "https://www.idealista.com/venta-viviendas/usera/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.094Z"
+  },
+  {
+    "id": "demo_usera_1",
+    "titulo": "Piso 96m² · 3 hab · Usera",
+    "precio": 220000,
+    "precio_m2": 2292,
+    "m2": 96,
+    "habitaciones": 3,
+    "distrito": "Usera",
+    "lat": 40.38266015030659,
+    "lng": -3.711844319137013,
+    "url": "https://www.idealista.com/venta-viviendas/usera/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.094Z"
+  },
+  {
+    "id": "demo_usera_2",
+    "titulo": "Piso 69m² · 2 hab · Usera",
+    "precio": 175000,
+    "precio_m2": 2536,
+    "m2": 69,
+    "habitaciones": 2,
+    "distrito": "Usera",
+    "lat": 40.394279913352555,
+    "lng": -3.7153300395891398,
+    "url": "https://www.idealista.com/venta-viviendas/usera/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.094Z"
+  },
+  {
+    "id": "demo_usera_3",
+    "titulo": "Piso 81m² · 1 hab · Usera",
+    "precio": 250000,
+    "precio_m2": 3086,
+    "m2": 81,
+    "habitaciones": 1,
+    "distrito": "Usera",
+    "lat": 40.39001907102262,
+    "lng": -3.712245803064475,
+    "url": "https://www.idealista.com/venta-viviendas/usera/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.094Z"
+  }
+]

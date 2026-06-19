@@ -1,0 +1,58 @@
+[
+  {
+    "id": "demo_carabanchel_0",
+    "titulo": "Piso 75m² · 3 hab · Carabanchel",
+    "precio": 220000,
+    "precio_m2": 2933,
+    "m2": 75,
+    "habitaciones": 3,
+    "distrito": "Carabanchel",
+    "lat": 40.37824010057637,
+    "lng": -3.7372661449877302,
+    "url": "https://www.idealista.com/venta-viviendas/carabanchel/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.102Z"
+  },
+  {
+    "id": "demo_carabanchel_1",
+    "titulo": "Piso 82m² · 2 hab · Carabanchel",
+    "precio": 260000,
+    "precio_m2": 3171,
+    "m2": 82,
+    "habitaciones": 2,
+    "distrito": "Carabanchel",
+    "lat": 40.384960466510975,
+    "lng": -3.7462884458109573,
+    "url": "https://www.idealista.com/venta-viviendas/carabanchel/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.102Z"
+  },
+  {
+    "id": "demo_carabanchel_2",
+    "titulo": "Piso 112m² · 4 hab · Carabanchel",
+    "precio": 185000,
+    "precio_m2": 1652,
+    "m2": 112,
+    "habitaciones": 4,
+    "distrito": "Carabanchel",
+    "lat": 40.381445722489524,
+    "lng": -3.743547859387152,
+    "url": "https://www.idealista.com/venta-viviendas/carabanchel/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.102Z"
+  },
+  {
+    "id": "demo_carabanchel_3",
+    "titulo": "Piso 66m² · 3 hab · Carabanchel",
+    "precio": 310000,
+    "precio_m2": 4697,
+    "m2": 66,
+    "habitaciones": 3,
+    "distrito": "Carabanchel",
+    "lat": 40.379902265289005,
+    "lng": -3.73217118089175,
+    "url": "https://www.idealista.com/venta-viviendas/carabanchel/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.102Z"
+  }
+]

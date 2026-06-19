@@ -1,0 +1,58 @@
+[
+  {
+    "id": "demo_chamberi_0",
+    "titulo": "Piso 83m² · 1 hab · Chamberí",
+    "precio": 650000,
+    "precio_m2": 7831,
+    "m2": 83,
+    "habitaciones": 1,
+    "distrito": "Chamberí",
+    "lat": 40.429229289009925,
+    "lng": -3.7037194184167697,
+    "url": "https://www.idealista.com/venta-viviendas/chamberi/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.057Z"
+  },
+  {
+    "id": "demo_chamberi_1",
+    "titulo": "Piso 91m² · 4 hab · Chamberí",
+    "precio": 720000,
+    "precio_m2": 7912,
+    "m2": 91,
+    "habitaciones": 4,
+    "distrito": "Chamberí",
+    "lat": 40.43583675427046,
+    "lng": -3.7053452791565937,
+    "url": "https://www.idealista.com/venta-viviendas/chamberi/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.057Z"
+  },
+  {
+    "id": "demo_chamberi_2",
+    "titulo": "Piso 68m² · 3 hab · Chamberí",
+    "precio": 890000,
+    "precio_m2": 13088,
+    "m2": 68,
+    "habitaciones": 3,
+    "distrito": "Chamberí",
+    "lat": 40.442629202340804,
+    "lng": -3.7087053220447714,
+    "url": "https://www.idealista.com/venta-viviendas/chamberi/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.057Z"
+  },
+  {
+    "id": "demo_chamberi_3",
+    "titulo": "Piso 85m² · 2 hab · Chamberí",
+    "precio": 480000,
+    "precio_m2": 5647,
+    "m2": 85,
+    "habitaciones": 2,
+    "distrito": "Chamberí",
+    "lat": 40.435663690834666,
+    "lng": -3.7106374535832702,
+    "url": "https://www.idealista.com/venta-viviendas/chamberi/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.057Z"
+  }
+]

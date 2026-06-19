@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_vicalvaro_0",
+    "titulo": "Piso 96m² · 3 hab · Vicálvaro",
+    "precio": 175000,
+    "precio_m2": 1823,
+    "m2": 96,
+    "habitaciones": 3,
+    "distrito": "Vicálvaro",
+    "lat": 40.40537357930643,
+    "lng": -3.616456295210941,
+    "url": "https://www.idealista.com/venta-viviendas/vicalvaro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.130Z"
+  },
+  {
+    "id": "demo_vicalvaro_1",
+    "titulo": "Piso 76m² · 3 hab · Vicálvaro",
+    "precio": 210000,
+    "precio_m2": 2763,
+    "m2": 76,
+    "habitaciones": 3,
+    "distrito": "Vicálvaro",
+    "lat": 40.40814050013021,
+    "lng": -3.6016886527499152,
+    "url": "https://www.idealista.com/venta-viviendas/vicalvaro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.130Z"
+  },
+  {
+    "id": "demo_vicalvaro_2",
+    "titulo": "Piso 108m² · 1 hab · Vicálvaro",
+    "precio": 195000,
+    "precio_m2": 1806,
+    "m2": 108,
+    "habitaciones": 1,
+    "distrito": "Vicálvaro",
+    "lat": 40.39716177317048,
+    "lng": -3.6058037569353556,
+    "url": "https://www.idealista.com/venta-viviendas/vicalvaro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.130Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "demo_vallecas_puente_0",
+    "titulo": "Piso 62m² · 4 hab · Puente de Vallecas",
+    "precio": 140000,
+    "precio_m2": 2258,
+    "m2": 62,
+    "habitaciones": 4,
+    "distrito": "Puente de Vallecas",
+    "lat": 40.39139557158859,
+    "lng": -3.6567455722342443,
+    "url": "https://www.idealista.com/venta-viviendas/vallecas_puente/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.106Z"
+  },
+  {
+    "id": "demo_vallecas_puente_1",
+    "titulo": "Piso 60m² · 1 hab · Puente de Vallecas",
+    "precio": 165000,
+    "precio_m2": 2750,
+    "m2": 60,
+    "habitaciones": 1,
+    "distrito": "Puente de Vallecas",
+    "lat": 40.389542155711304,
+    "lng": -3.6625749248690913,
+    "url": "https://www.idealista.com/venta-viviendas/vallecas_puente/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.106Z"
+  },
+  {
+    "id": "demo_vallecas_puente_2",
+    "titulo": "Piso 102m² · 2 hab · Puente de Vallecas",
+    "precio": 130000,
+    "precio_m2": 1275,
+    "m2": 102,
+    "habitaciones": 2,
+    "distrito": "Puente de Vallecas",
+    "lat": 40.38891572604594,
+    "lng": -3.667858143350224,
+    "url": "https://www.idealista.com/venta-viviendas/vallecas_puente/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.106Z"
+  },
+  {
+    "id": "demo_vallecas_puente_3",
+    "titulo": "Piso 73m² · 3 hab · Puente de Vallecas",
+    "precio": 190000,
+    "precio_m2": 2603,
+    "m2": 73,
+    "habitaciones": 3,
+    "distrito": "Puente de Vallecas",
+    "lat": 40.39149087451773,
+    "lng": -3.6656816732151847,
+    "url": "https://www.idealista.com/venta-viviendas/vallecas_puente/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.106Z"
+  }
+]

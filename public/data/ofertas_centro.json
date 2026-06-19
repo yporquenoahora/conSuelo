@@ -1,0 +1,72 @@
+[
+  {
+    "id": "demo_centro_0",
+    "titulo": "Piso 75m² · 2 hab · Centro",
+    "precio": 380000,
+    "precio_m2": 5067,
+    "m2": 75,
+    "habitaciones": 2,
+    "distrito": "Centro",
+    "lat": 40.422567614630445,
+    "lng": -3.703443789775054,
+    "url": "https://www.idealista.com/venta-viviendas/centro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.048Z"
+  },
+  {
+    "id": "demo_centro_1",
+    "titulo": "Piso 77m² · 2 hab · Centro",
+    "precio": 420000,
+    "precio_m2": 5455,
+    "m2": 77,
+    "habitaciones": 2,
+    "distrito": "Centro",
+    "lat": 40.41745314031548,
+    "lng": -3.702975280900704,
+    "url": "https://www.idealista.com/venta-viviendas/centro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.048Z"
+  },
+  {
+    "id": "demo_centro_2",
+    "titulo": "Piso 95m² · 1 hab · Centro",
+    "precio": 510000,
+    "precio_m2": 5368,
+    "m2": 95,
+    "habitaciones": 1,
+    "distrito": "Centro",
+    "lat": 40.42244166414779,
+    "lng": -3.706553395301822,
+    "url": "https://www.idealista.com/venta-viviendas/centro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.048Z"
+  },
+  {
+    "id": "demo_centro_3",
+    "titulo": "Piso 106m² · 4 hab · Centro",
+    "precio": 290000,
+    "precio_m2": 2736,
+    "m2": 106,
+    "habitaciones": 4,
+    "distrito": "Centro",
+    "lat": 40.41356368497243,
+    "lng": -3.7047018715733744,
+    "url": "https://www.idealista.com/venta-viviendas/centro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.048Z"
+  },
+  {
+    "id": "demo_centro_4",
+    "titulo": "Piso 107m² · 3 hab · Centro",
+    "precio": 650000,
+    "precio_m2": 6075,
+    "m2": 107,
+    "habitaciones": 3,
+    "distrito": "Centro",
+    "lat": 40.41341214177514,
+    "lng": -3.7098328824487754,
+    "url": "https://www.idealista.com/venta-viviendas/centro/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.048Z"
+  }
+]

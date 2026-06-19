@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo_fuencarral_0",
+    "titulo": "Piso 57m² · 1 hab · Fuencarral-El Pardo",
+    "precio": 350000,
+    "precio_m2": 6140,
+    "m2": 57,
+    "habitaciones": 1,
+    "distrito": "Fuencarral-El Pardo",
+    "lat": 40.50223502521682,
+    "lng": -3.716755326323747,
+    "url": "https://www.idealista.com/venta-viviendas/fuencarral/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.155Z"
+  },
+  {
+    "id": "demo_fuencarral_1",
+    "titulo": "Piso 82m² · 4 hab · Fuencarral-El Pardo",
+    "precio": 390000,
+    "precio_m2": 4756,
+    "m2": 82,
+    "habitaciones": 4,
+    "distrito": "Fuencarral-El Pardo",
+    "lat": 40.50286398251623,
+    "lng": -3.709398529117897,
+    "url": "https://www.idealista.com/venta-viviendas/fuencarral/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.155Z"
+  },
+  {
+    "id": "demo_fuencarral_2",
+    "titulo": "Piso 77m² · 2 hab · Fuencarral-El Pardo",
+    "precio": 420000,
+    "precio_m2": 5455,
+    "m2": 77,
+    "habitaciones": 2,
+    "distrito": "Fuencarral-El Pardo",
+    "lat": 40.50681963077674,
+    "lng": -3.7146129531571876,
+    "url": "https://www.idealista.com/venta-viviendas/fuencarral/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-19T08:31:13.155Z"
+  }
+]
