@@ -22,11 +22,10 @@ jobs:
       - name: Configurar Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
-          cache: npm
+          node-version: 22          
 
       - name: Instalar dependencias
-        run: npm ci
+        run: npm install
 
       - name: Construir proyecto
         run: npm run build
