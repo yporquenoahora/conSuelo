@@ -61,6 +61,7 @@
   </div>
 
   <div class="param-group">
+    <!-- svelte-ignore a11y_label_has_associated_control -->
     <label>Gastos anuales (IBI + comunidad + seguro)
       <span class="valor">{$inversor.gastos_anuales_pct}%</span>
     </label>
@@ -70,10 +71,10 @@
   </div>
 
   <div class="param-group">
-    <label>Vacancia estimada
+    <label for="vacancia">Vacancia estimada
       <span class="valor">{$inversor.vacancia_meses} {$inversor.vacancia_meses === 1 ? 'mes' : 'meses'}/año</span>
     </label>
-    <input type="range" min="0" max="3" step="1"
+    <input id="vacancia" type="range" min="0" max="3" step="1"
       bind:value={$inversor.vacancia_meses} />
   </div>
 
