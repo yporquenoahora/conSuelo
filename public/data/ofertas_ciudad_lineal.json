@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_ciudad_lineal_0",
-    "titulo": "Piso 89m² · 2 hab · Ciudad Lineal",
+    "titulo": "Piso 66m² · 4 hab · Ciudad Lineal",
     "precio": 230000,
-    "precio_m2": 2584,
-    "m2": 89,
-    "habitaciones": 2,
+    "precio_m2": 3485,
+    "m2": 66,
+    "habitaciones": 4,
     "distrito": "Ciudad Lineal",
-    "lat": 40.43948460636475,
-    "lng": -3.6507469402476533,
+    "lat": 40.44202460828496,
+    "lng": -3.6477130304121745,
     "url": "https://www.idealista.com/venta-viviendas/ciudad_lineal/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.147Z"
+    "fecha_scraped": "2026-06-20T13:41:55.631Z"
   },
   {
     "id": "demo_ciudad_lineal_1",
-    "titulo": "Piso 63m² · 1 hab · Ciudad Lineal",
+    "titulo": "Piso 84m² · 1 hab · Ciudad Lineal",
     "precio": 270000,
-    "precio_m2": 4286,
-    "m2": 63,
+    "precio_m2": 3214,
+    "m2": 84,
     "habitaciones": 1,
     "distrito": "Ciudad Lineal",
-    "lat": 40.44610868245838,
-    "lng": -3.6456709891078036,
+    "lat": 40.44839007859685,
+    "lng": -3.649642742339991,
     "url": "https://www.idealista.com/venta-viviendas/ciudad_lineal/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.147Z"
+    "fecha_scraped": "2026-06-20T13:41:55.631Z"
   },
   {
     "id": "demo_ciudad_lineal_2",
-    "titulo": "Piso 84m² · 4 hab · Ciudad Lineal",
+    "titulo": "Piso 73m² · 1 hab · Ciudad Lineal",
     "precio": 250000,
-    "precio_m2": 2976,
-    "m2": 84,
-    "habitaciones": 4,
+    "precio_m2": 3425,
+    "m2": 73,
+    "habitaciones": 1,
     "distrito": "Ciudad Lineal",
-    "lat": 40.44116869016104,
-    "lng": -3.6471011774954216,
+    "lat": 40.450839221337006,
+    "lng": -3.6486078740982517,
     "url": "https://www.idealista.com/venta-viviendas/ciudad_lineal/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.147Z"
+    "fecha_scraped": "2026-06-20T13:41:55.631Z"
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_villaverde_0",
-    "titulo": "Piso 93m² · 3 hab · Villaverde",
+    "titulo": "Piso 62m² · 4 hab · Villaverde",
     "precio": 125000,
-    "precio_m2": 1344,
-    "m2": 93,
-    "habitaciones": 3,
+    "precio_m2": 2016,
+    "m2": 62,
+    "habitaciones": 4,
     "distrito": "Villaverde",
-    "lat": 40.34536230899715,
-    "lng": -3.7101867205219476,
+    "lat": 40.35377078547037,
+    "lng": -3.708554204328154,
     "url": "https://www.idealista.com/venta-viviendas/villaverde/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.112Z"
+    "fecha_scraped": "2026-06-20T13:41:55.609Z"
   },
   {
     "id": "demo_villaverde_1",
-    "titulo": "Piso 67m² · 1 hab · Villaverde",
+    "titulo": "Piso 72m² · 2 hab · Villaverde",
     "precio": 148000,
-    "precio_m2": 2209,
-    "m2": 67,
-    "habitaciones": 1,
+    "precio_m2": 2056,
+    "m2": 72,
+    "habitaciones": 2,
     "distrito": "Villaverde",
-    "lat": 40.349829133455344,
-    "lng": -3.7079659820302813,
+    "lat": 40.34689297021135,
+    "lng": -3.7177816956307255,
     "url": "https://www.idealista.com/venta-viviendas/villaverde/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.112Z"
+    "fecha_scraped": "2026-06-20T13:41:55.609Z"
   },
   {
     "id": "demo_villaverde_2",
-    "titulo": "Piso 107m² · 1 hab · Villaverde",
+    "titulo": "Piso 107m² · 3 hab · Villaverde",
     "precio": 110000,
     "precio_m2": 1028,
     "m2": 107,
-    "habitaciones": 1,
+    "habitaciones": 3,
     "distrito": "Villaverde",
-    "lat": 40.3542848984626,
-    "lng": -3.7184224283316603,
+    "lat": 40.34518146737126,
+    "lng": -3.711319542905454,
     "url": "https://www.idealista.com/venta-viviendas/villaverde/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.112Z"
+    "fecha_scraped": "2026-06-20T13:41:55.609Z"
   }
 ]

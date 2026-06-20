@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_moratalaz_0",
-    "titulo": "Piso 104m² · 3 hab · Moratalaz",
-    "precio": 200000,
-    "precio_m2": 1923,
-    "m2": 104,
-    "habitaciones": 3,
-    "distrito": "Moratalaz",
-    "lat": 40.408046543461175,
-    "lng": -3.654996299302362,
-    "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
-    "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.142Z"
-  },
-  {
-    "id": "demo_moratalaz_1",
     "titulo": "Piso 101m² · 3 hab · Moratalaz",
-    "precio": 240000,
-    "precio_m2": 2376,
+    "precio": 200000,
+    "precio_m2": 1980,
     "m2": 101,
     "habitaciones": 3,
     "distrito": "Moratalaz",
-    "lat": 40.40090099997275,
-    "lng": -3.6514816020361516,
+    "lat": 40.40253814540257,
+    "lng": -3.6482846164230462,
     "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.142Z"
+    "fecha_scraped": "2026-06-20T13:41:55.628Z"
+  },
+  {
+    "id": "demo_moratalaz_1",
+    "titulo": "Piso 111m² · 3 hab · Moratalaz",
+    "precio": 240000,
+    "precio_m2": 2162,
+    "m2": 111,
+    "habitaciones": 3,
+    "distrito": "Moratalaz",
+    "lat": 40.40728891571013,
+    "lng": -3.6424528053742367,
+    "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
+    "fuente": "demo",
+    "fecha_scraped": "2026-06-20T13:41:55.628Z"
   },
   {
     "id": "demo_moratalaz_2",
-    "titulo": "Piso 77m² · 3 hab · Moratalaz",
+    "titulo": "Piso 64m² · 1 hab · Moratalaz",
     "precio": 220000,
-    "precio_m2": 2857,
-    "m2": 77,
-    "habitaciones": 3,
+    "precio_m2": 3438,
+    "m2": 64,
+    "habitaciones": 1,
     "distrito": "Moratalaz",
-    "lat": 40.40764978996546,
-    "lng": -3.6522200096845356,
+    "lat": 40.40607753746375,
+    "lng": -3.6467537729859485,
     "url": "https://www.idealista.com/venta-viviendas/moratalaz/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.142Z"
+    "fecha_scraped": "2026-06-20T13:41:55.628Z"
   }
 ]

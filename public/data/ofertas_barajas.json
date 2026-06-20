@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_barajas_0",
-    "titulo": "Piso 89m² · 3 hab · Barajas",
+    "titulo": "Piso 70m² · 2 hab · Barajas",
     "precio": 330000,
-    "precio_m2": 3708,
-    "m2": 89,
-    "habitaciones": 3,
+    "precio_m2": 4714,
+    "m2": 70,
+    "habitaciones": 2,
     "distrito": "Barajas",
-    "lat": 40.47846530474911,
-    "lng": -3.5816825268867567,
+    "lat": 40.487162477445494,
+    "lng": -3.577006543473978,
     "url": "https://www.idealista.com/venta-viviendas/barajas/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.159Z"
+    "fecha_scraped": "2026-06-20T13:41:55.640Z"
   },
   {
     "id": "demo_barajas_1",
-    "titulo": "Piso 107m² · 1 hab · Barajas",
+    "titulo": "Piso 110m² · 3 hab · Barajas",
     "precio": 370000,
-    "precio_m2": 3458,
-    "m2": 107,
-    "habitaciones": 1,
+    "precio_m2": 3364,
+    "m2": 110,
+    "habitaciones": 3,
     "distrito": "Barajas",
-    "lat": 40.47332701948302,
-    "lng": -3.5816504804435363,
+    "lat": 40.47878753611266,
+    "lng": -3.5768145722420415,
     "url": "https://www.idealista.com/venta-viviendas/barajas/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.159Z"
+    "fecha_scraped": "2026-06-20T13:41:55.640Z"
   },
   {
     "id": "demo_barajas_2",
-    "titulo": "Piso 108m² · 1 hab · Barajas",
+    "titulo": "Piso 83m² · 3 hab · Barajas",
     "precio": 290000,
-    "precio_m2": 2685,
-    "m2": 108,
-    "habitaciones": 1,
+    "precio_m2": 3494,
+    "m2": 83,
+    "habitaciones": 3,
     "distrito": "Barajas",
-    "lat": 40.48586740205395,
-    "lng": -3.5787733230547385,
+    "lat": 40.47684531185142,
+    "lng": -3.5746668330072224,
     "url": "https://www.idealista.com/venta-viviendas/barajas/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.159Z"
+    "fecha_scraped": "2026-06-20T13:41:55.640Z"
   }
 ]

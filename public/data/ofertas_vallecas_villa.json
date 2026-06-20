@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_vallecas_villa_0",
-    "titulo": "Piso 98m² · 4 hab · Villa de Vallecas",
+    "titulo": "Piso 91m² · 1 hab · Villa de Vallecas",
     "precio": 160000,
-    "precio_m2": 1633,
-    "m2": 98,
-    "habitaciones": 4,
+    "precio_m2": 1758,
+    "m2": 91,
+    "habitaciones": 1,
     "distrito": "Villa de Vallecas",
-    "lat": 40.377851619355354,
-    "lng": -3.622349337211787,
+    "lat": 40.364583017156704,
+    "lng": -3.623029359434353,
     "url": "https://www.idealista.com/venta-viviendas/vallecas_villa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.115Z"
+    "fecha_scraped": "2026-06-20T13:41:55.612Z"
   },
   {
     "id": "demo_vallecas_villa_1",
-    "titulo": "Piso 80m² · 2 hab · Villa de Vallecas",
+    "titulo": "Piso 82m² · 4 hab · Villa de Vallecas",
     "precio": 185000,
-    "precio_m2": 2313,
-    "m2": 80,
-    "habitaciones": 2,
+    "precio_m2": 2256,
+    "m2": 82,
+    "habitaciones": 4,
     "distrito": "Villa de Vallecas",
-    "lat": 40.370906238723656,
-    "lng": -3.6235477824566953,
+    "lat": 40.369004682094236,
+    "lng": -3.615290786175341,
     "url": "https://www.idealista.com/venta-viviendas/vallecas_villa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.115Z"
+    "fecha_scraped": "2026-06-20T13:41:55.612Z"
   },
   {
     "id": "demo_vallecas_villa_2",
-    "titulo": "Piso 100m² · 1 hab · Villa de Vallecas",
+    "titulo": "Piso 66m² · 4 hab · Villa de Vallecas",
     "precio": 200000,
-    "precio_m2": 2000,
-    "m2": 100,
-    "habitaciones": 1,
+    "precio_m2": 3030,
+    "m2": 66,
+    "habitaciones": 4,
     "distrito": "Villa de Vallecas",
-    "lat": 40.374574469066964,
-    "lng": -3.6173926954014797,
+    "lat": 40.369361113195104,
+    "lng": -3.6266636380179818,
     "url": "https://www.idealista.com/venta-viviendas/vallecas_villa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.115Z"
+    "fecha_scraped": "2026-06-20T13:41:55.612Z"
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_arganzuela_0",
-    "titulo": "Piso 95m² · 1 hab · Arganzuela",
+    "titulo": "Piso 76m² · 1 hab · Arganzuela",
     "precio": 310000,
-    "precio_m2": 3263,
-    "m2": 95,
+    "precio_m2": 4079,
+    "m2": 76,
     "habitaciones": 1,
     "distrito": "Arganzuela",
-    "lat": 40.39208370912864,
-    "lng": -3.706239302557058,
+    "lat": 40.39254491111539,
+    "lng": -3.705207759989747,
     "url": "https://www.idealista.com/venta-viviendas/arganzuela/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.077Z"
+    "fecha_scraped": "2026-06-20T13:41:55.590Z"
   },
   {
     "id": "demo_arganzuela_1",
-    "titulo": "Piso 70m² · 3 hab · Arganzuela",
+    "titulo": "Piso 88m² · 1 hab · Arganzuela",
     "precio": 380000,
-    "precio_m2": 5429,
-    "m2": 70,
-    "habitaciones": 3,
+    "precio_m2": 4318,
+    "m2": 88,
+    "habitaciones": 1,
     "distrito": "Arganzuela",
-    "lat": 40.3950053482469,
-    "lng": -3.7004687403680863,
+    "lat": 40.399085353718306,
+    "lng": -3.7039494008783906,
     "url": "https://www.idealista.com/venta-viviendas/arganzuela/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.077Z"
+    "fecha_scraped": "2026-06-20T13:41:55.590Z"
   },
   {
     "id": "demo_arganzuela_2",
-    "titulo": "Piso 62m² · 2 hab · Arganzuela",
+    "titulo": "Piso 96m² · 2 hab · Arganzuela",
     "precio": 290000,
-    "precio_m2": 4677,
-    "m2": 62,
+    "precio_m2": 3021,
+    "m2": 96,
     "habitaciones": 2,
     "distrito": "Arganzuela",
-    "lat": 40.401811330862486,
-    "lng": -3.7006707873104876,
+    "lat": 40.4048489673025,
+    "lng": -3.696092849063396,
     "url": "https://www.idealista.com/venta-viviendas/arganzuela/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.077Z"
+    "fecha_scraped": "2026-06-20T13:41:55.590Z"
   }
 ]

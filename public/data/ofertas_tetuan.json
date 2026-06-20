@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_tetuan_0",
-    "titulo": "Piso 92m² · 2 hab · Tetuán",
+    "titulo": "Piso 83m² · 2 hab · Tetuán",
     "precio": 350000,
-    "precio_m2": 3804,
-    "m2": 92,
+    "precio_m2": 4217,
+    "m2": 83,
     "habitaciones": 2,
     "distrito": "Tetuán",
-    "lat": 40.445688562656734,
-    "lng": -3.7114449923933823,
+    "lat": 40.44615077229362,
+    "lng": -3.7019332978046244,
     "url": "https://www.idealista.com/venta-viviendas/tetuan/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.081Z"
+    "fecha_scraped": "2026-06-20T13:41:55.592Z"
   },
   {
     "id": "demo_tetuan_1",
-    "titulo": "Piso 82m² · 4 hab · Tetuán",
+    "titulo": "Piso 62m² · 4 hab · Tetuán",
     "precio": 420000,
-    "precio_m2": 5122,
-    "m2": 82,
+    "precio_m2": 6774,
+    "m2": 62,
     "habitaciones": 4,
     "distrito": "Tetuán",
-    "lat": 40.45372810709824,
-    "lng": -3.699926274053075,
+    "lat": 40.45754265182572,
+    "lng": -3.7001580970394494,
     "url": "https://www.idealista.com/venta-viviendas/tetuan/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.081Z"
+    "fecha_scraped": "2026-06-20T13:41:55.592Z"
   },
   {
     "id": "demo_tetuan_2",
-    "titulo": "Piso 113m² · 1 hab · Tetuán",
+    "titulo": "Piso 58m² · 4 hab · Tetuán",
     "precio": 480000,
-    "precio_m2": 4248,
-    "m2": 113,
-    "habitaciones": 1,
+    "precio_m2": 8276,
+    "m2": 58,
+    "habitaciones": 4,
     "distrito": "Tetuán",
-    "lat": 40.45241191062439,
-    "lng": -3.711026621620094,
+    "lat": 40.44950642931464,
+    "lng": -3.7091037824396653,
     "url": "https://www.idealista.com/venta-viviendas/tetuan/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.081Z"
+    "fecha_scraped": "2026-06-20T13:41:55.592Z"
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_moncloa_0",
-    "titulo": "Piso 72m² · 2 hab · Moncloa-Aravaca",
+    "titulo": "Piso 75m² · 3 hab · Moncloa-Aravaca",
     "precio": 430000,
-    "precio_m2": 5972,
-    "m2": 72,
-    "habitaciones": 2,
+    "precio_m2": 5733,
+    "m2": 75,
+    "habitaciones": 3,
     "distrito": "Moncloa-Aravaca",
-    "lat": 40.4357121713582,
-    "lng": -3.7391218536298187,
+    "lat": 40.43604480418446,
+    "lng": -3.739207025941375,
     "url": "https://www.idealista.com/venta-viviendas/moncloa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.089Z"
+    "fecha_scraped": "2026-06-20T13:41:55.595Z"
   },
   {
     "id": "demo_moncloa_1",
-    "titulo": "Piso 72m² · 2 hab · Moncloa-Aravaca",
+    "titulo": "Piso 102m² · 3 hab · Moncloa-Aravaca",
     "precio": 520000,
-    "precio_m2": 7222,
-    "m2": 72,
-    "habitaciones": 2,
+    "precio_m2": 5098,
+    "m2": 102,
+    "habitaciones": 3,
     "distrito": "Moncloa-Aravaca",
-    "lat": 40.43785751284315,
-    "lng": -3.737873530350875,
+    "lat": 40.43820283645416,
+    "lng": -3.7269040646723366,
     "url": "https://www.idealista.com/venta-viviendas/moncloa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.089Z"
+    "fecha_scraped": "2026-06-20T13:41:55.595Z"
   },
   {
     "id": "demo_moncloa_2",
-    "titulo": "Piso 73m² · 4 hab · Moncloa-Aravaca",
+    "titulo": "Piso 57m² · 2 hab · Moncloa-Aravaca",
     "precio": 600000,
-    "precio_m2": 8219,
-    "m2": 73,
-    "habitaciones": 4,
+    "precio_m2": 10526,
+    "m2": 57,
+    "habitaciones": 2,
     "distrito": "Moncloa-Aravaca",
-    "lat": 40.43385565779009,
-    "lng": -3.7380986506944724,
+    "lat": 40.42884102649711,
+    "lng": -3.727183611137872,
     "url": "https://www.idealista.com/venta-viviendas/moncloa/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.089Z"
+    "fecha_scraped": "2026-06-20T13:41:55.595Z"
   }
 ]

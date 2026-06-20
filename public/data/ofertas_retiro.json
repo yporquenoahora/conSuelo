@@ -1,44 +1,44 @@
 [
   {
     "id": "demo_retiro_0",
-    "titulo": "Piso 94m² · 2 hab · Retiro",
+    "titulo": "Piso 109m² · 1 hab · Retiro",
     "precio": 340000,
-    "precio_m2": 3617,
-    "m2": 94,
-    "habitaciones": 2,
+    "precio_m2": 3119,
+    "m2": 109,
+    "habitaciones": 1,
     "distrito": "Retiro",
-    "lat": 40.40935178864558,
-    "lng": -3.673872034703279,
+    "lat": 40.41220763306727,
+    "lng": -3.6722763472111652,
     "url": "https://www.idealista.com/venta-viviendas/retiro/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.070Z"
+    "fecha_scraped": "2026-06-20T13:41:55.586Z"
   },
   {
     "id": "demo_retiro_1",
-    "titulo": "Piso 58m² · 3 hab · Retiro",
+    "titulo": "Piso 59m² · 4 hab · Retiro",
     "precio": 420000,
-    "precio_m2": 7241,
-    "m2": 58,
-    "habitaciones": 3,
+    "precio_m2": 7119,
+    "m2": 59,
+    "habitaciones": 4,
     "distrito": "Retiro",
-    "lat": 40.40974665763721,
-    "lng": -3.672786945756407,
+    "lat": 40.40811400498485,
+    "lng": -3.681722306955091,
     "url": "https://www.idealista.com/venta-viviendas/retiro/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.070Z"
+    "fecha_scraped": "2026-06-20T13:41:55.586Z"
   },
   {
     "id": "demo_retiro_2",
-    "titulo": "Piso 94m² · 3 hab · Retiro",
+    "titulo": "Piso 90m² · 2 hab · Retiro",
     "precio": 560000,
-    "precio_m2": 5957,
-    "m2": 94,
-    "habitaciones": 3,
+    "precio_m2": 6222,
+    "m2": 90,
+    "habitaciones": 2,
     "distrito": "Retiro",
-    "lat": 40.40909529818611,
-    "lng": -3.675291951696721,
+    "lat": 40.41016820311011,
+    "lng": -3.680330303277668,
     "url": "https://www.idealista.com/venta-viviendas/retiro/",
     "fuente": "demo",
-    "fecha_scraped": "2026-06-19T08:31:13.070Z"
+    "fecha_scraped": "2026-06-20T13:41:55.586Z"
   }
 ]
